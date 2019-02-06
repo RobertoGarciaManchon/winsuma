@@ -104,7 +104,7 @@ public class winsuma extends javax.swing.JFrame {
         int s;
         s=v1+v2;
         labelResultado.setText(Integer.toString(s));
-        
+        /* Añadiendo comentario nuevo
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
